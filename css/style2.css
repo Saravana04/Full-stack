@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+.new_issue{
+    max-width: 114rem;
+    background-color: #eee;
+    margin: 0 auto;
+}
+
+.btn{
+    float: right;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
